@@ -1,5 +1,6 @@
 {
-  "version": "5.1.33",
-  "exe_url": "https://github.com/kedo1209/Kedo-Auto-Trader1/releases/download/v5.1.33/KedoAutoTrader_CAD_v5_1_33.exe",
-  "sha256": "79331fb188668c531e17568e2fd098dca83fd50da25119f739bdfaea24f153c1"
+  "version": "5.1.37",
+  "package_url": "https://github.com/kedo1209/Kedo-Auto-Trader1/releases/download/v5.1.36/_internal.zip",
+  "sha256": "068e4d35dcae13e8a9084f6b5e422c781b631a85ce77a235ae5e001bcecd3c0d",
+  "package_type": "zip"
 }
